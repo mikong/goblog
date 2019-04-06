@@ -4,7 +4,7 @@ This repository contains my blog on the game of Go previously at [goblog.michael
 
 ## Posts
 
-* Welcome to my blog about go!
+* [Welcome to my blog about go!](posts/2008-10-20-welcome-to-my-blog-about-go.md)
 * Go Sensations, Go on Facebook, and KGS
 * Crushed in 77 moves
 * Attending the 30th World Amateur Go Championship
@@ -19,4 +19,4 @@ This repository contains my blog on the game of Go previously at [goblog.michael
 ## Pages
 
 * About
-* Top 100 Games
+* [Top 100 Games](top-100-games.md)
