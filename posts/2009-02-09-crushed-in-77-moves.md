@@ -17,5 +17,8 @@ When I went home, I was able to record my game against Ms Lee, including all the
 
 #### Comments:
 
-* Jean Paul (Wed, 11 Feb 2009 07:22:10 UTC): Malupit pala itong nakalaban mo no…ang lakas pumatay!
-* mikong (Wed, 11 Feb 2009 16:11:21 UTC): Malupit talaga, hehe
+Jean Paul (Wed, 11 Feb 2009 07:22:10 UTC):
+> Malupit pala itong nakalaban mo no…ang lakas pumatay!
+
+mikong (Wed, 11 Feb 2009 16:11:21 UTC):
+> Malupit talaga, hehe
