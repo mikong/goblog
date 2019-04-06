@@ -10,7 +10,7 @@ This repository contains my blog on the game of Go previously at [goblog.michael
 * [Attending the 30th World Amateur Go Championship](posts/2009-06-04-attending-the-30th-world-amateur-go-championship.md)
 * [30th WAGC Game Review: Philippines vs Slovenia](posts/2009-06-04-30th-wagc-game-review-philippines-vs-slovenia.md)
 * [30th WAGC Game Review: Philippines vs Uruguay](posts/2009-06-06-30th-wagc-game-review-philippines-vs-uruguay.md)
-* 30th WAGC Game Review: Philippines vs Switzerland
+* [30th WAGC Game Review: Philippines vs Switzerland](posts/2009-06-06-30th-wagc-game-review-philippines-vs-switzerland.md)
 * The Master of Go
 * 4th Korea Prime Minister Cup
 * 4th KPMC Pro Simul Game
