@@ -6,7 +6,7 @@ This repository contains my blog on the game of Go previously at [goblog.michael
 
 * [Welcome to my blog about go!](posts/2008-10-20-welcome-to-my-blog-about-go.md)
 * [Go Sensations, Go on Facebook, and KGS](posts/2009-01-29-go-sensations-go-on-facebook-and-kgs.md)
-* Crushed in 77 moves
+* [Crushed in 77 moves](2009-02-09-crushed-in-77-moves.md)
 * Attending the 30th World Amateur Go Championship
 * 30th WAGC Game Review: Philippines vs Slovenia
 * 30th WAGC Game Review: Philippines vs Uruguay
