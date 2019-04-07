@@ -1,6 +1,6 @@
 # At Least 2 Eyes: Thoughts on the game of Go
 
-This repository contains my blog on the game of Go previously at [goblog.michaelgalero.com](#). I don't want to publish it as a blog, so I won't setup Github Pages + Jekyll. I'll just store each post in markdown so it's still readable.
+This repository contains my old blog (2008-2010) on the game of Go previously at [goblog.michaelgalero.com](#). I don't want to publish it as a blog, so I won't setup Github Pages + Jekyll. I'll just store each post in markdown so it's still readable.
 
 ## Posts
 
@@ -18,5 +18,5 @@ This repository contains my blog on the game of Go previously at [goblog.michael
 
 ## Pages
 
-* About
+* [About](about.md)
 * [Top 100 Games](top-100-games.md)
