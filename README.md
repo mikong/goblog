@@ -14,7 +14,7 @@ This repository contains my blog on the game of Go previously at [goblog.michael
 * [The Master of Go](posts/2009-08-26-the-master-of-go.md)
 * [4th Korea Prime Minister Cup](posts/2009-11-02-4th-korea-prime-minister-cup.md)
 * [4th KPMC Pro Simul Game](posts/2009-11-03-4th-kpmc-pro-simul-game.md)
-* PGA’s 2010 National Go Championship
+* [PGA’s 2010 National Go Championship](posts/2010-03-05-pgas-2010-national-go-championship.md)
 
 ## Pages
 
