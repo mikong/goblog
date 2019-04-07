@@ -10,3 +10,4 @@ This is my personal list of top 100 games in Go but I’ll have to build it from
 6. 9th Nongshim Cup - Chang Hao (w) vs Mok JinSeok (b)
 7. 14th Meijin League Round 18 - Takemiya Masaki (b) vs Awaji Shuzo (w)
 8. 22nd Fujitsu Cup Finals - Kang Dongyun (w) vs Lee ChangHo (b)
+9. 2016 Google DeepMind Challenge Match, game 4 - AlphaGo (b) vs Lee Sedol (w)
